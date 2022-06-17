@@ -15,7 +15,7 @@
     <description>mysql生成md文档</description>
 
     <properties>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <mybatis.plus.version>3.3.2</mybatis.plus.version>
         <mysql.version>5.1.48</mysql.version>
         <hutool.version>5.1.2</hutool.version>
